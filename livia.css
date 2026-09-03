@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    margin: 0;
+}
+h1{
+    font-weight: bold;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.opcoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
